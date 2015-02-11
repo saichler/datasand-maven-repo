@@ -46,7 +46,6 @@
                 <repositoryName>datasand-maven-repo</repositoryName>
                 <repositoryOwner>saichler</repositoryOwner>
                 <userName>saichler</userName>
-                <merge>true</merge>
             </configuration>
             <executions>
               <execution>
