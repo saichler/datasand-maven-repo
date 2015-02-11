@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.datasand</groupId>
-  <artifactId>datasand-serialization</artifactId>
+  <artifactId>datasand-network</artifactId>
   <versioning>
     <versions>
       <version>0.1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150211194407</lastUpdated>
+    <lastUpdated>20150211194410</lastUpdated>
   </versioning>
 </metadata>
