@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>org.datasand</groupId>
-  <artifactId>datasand-agents</artifactId>
+  <artifactId>datasand-store</artifactId>
   <version>0.1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20150211.193049</timestamp>
+      <timestamp>20150211.193052</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20150211193049</lastUpdated>
+    <lastUpdated>20150211193052</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1.0-20150211.193049-1</value>
-        <updated>20150211193049</updated>
+        <value>0.1.0-20150211.193052-1</value>
+        <updated>20150211193052</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.0-20150211.193049-1</value>
-        <updated>20150211193049</updated>
+        <value>0.1.0-20150211.193052-1</value>
+        <updated>20150211193052</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
