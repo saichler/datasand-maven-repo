@@ -7,14 +7,19 @@
     <relativePath>../</relativePath>
   </parent>
   <groupId>org.datasand</groupId>
-  <artifactId>datasand-network</artifactId>
+  <artifactId>datasand-agents</artifactId>
   <version>${datasand.version}</version>
-  <name>DataSand Network</name>
-  <description>DataSand Network</description>
+  <name>DataSand Agents</name>
+  <description>DataSand Agents</description>
   <dependencies>
     <dependency>
         <groupId>org.datasand</groupId>
         <artifactId>datasand-serialization</artifactId>
+        <version>${datasand.version}</version>
+    </dependency>
+    <dependency>
+        <groupId>org.datasand</groupId>
+        <artifactId>datasand-network</artifactId>
         <version>${datasand.version}</version>
     </dependency>
     <dependency>
