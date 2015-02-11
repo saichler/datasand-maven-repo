@@ -7,8 +7,20 @@
     <relativePath>../</relativePath>
   </parent>
   <groupId>org.datasand</groupId>
-  <artifactId>datasand-serialization</artifactId>
+  <artifactId>datasand-network</artifactId>
   <version>${datasand.version}</version>
-  <name>DataSand Serialization</name>
-  <description>DataSand Serialization</description>
+  <name>DataSand Network</name>
+  <description>DataSand Network</description>
+  <dependencies>
+    <dependency>
+        <groupId>org.datasand</groupId>
+        <artifactId>datasand-serialization</artifactId>
+        <version>${datasand.version}</version>
+    </dependency>
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.12</version>
+    </dependency>
+  </dependencies>
 </project>
